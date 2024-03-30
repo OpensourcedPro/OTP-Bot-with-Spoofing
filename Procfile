@@ -1,0 +1,1 @@
+web: bin/goland-otpbot-api
